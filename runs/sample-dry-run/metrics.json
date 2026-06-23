@@ -1,0 +1,11 @@
+{
+  "completed_instances": 3,
+  "completion_rate": 1.0,
+  "empty_patch_instances": 0,
+  "error_instances": 0,
+  "resolution_rate": 0.3333333333333333,
+  "resolved_instances": 1,
+  "source_report": "/Users/talexmaxim/prg/mlops/mlops-assignment-e2e-ml-pipeline/runs/sample-dry-run/run-eval/evaluation_report.json",
+  "submitted_instances": 3,
+  "unresolved_instances": 2
+}
